@@ -70,4 +70,4 @@ This module requires Terraform 0.12 or later, and the following provider:
 hashicorp/google 4.52.0
 
 ## License
-This module is licensed under the MIT License. See the LICENSE file for details. 
+This module is licensed under the MIT License. See the LICENSE file for details.
